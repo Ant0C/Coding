@@ -1,0 +1,61 @@
+*{box-sizing: border-box;}
+
+body{background-image: url(background.jpg);
+     background-size: cover;
+     font-family: 'Poppins', sans-serif;}
+
+p{font-size: 15px;}
+
+#contenitore1{width: 1000px;
+              margin: auto;}
+
+#contenitore2{border-radius: 10px;
+              padding: 70px;
+              background-color: #0000009c}
+
+#contenitore3{padding: 50px}
+
+#logo{ display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%}
+
+#Title{color: #11db11;
+       font-style: normal;
+       font-size: 33px;}
+
+#button{display: inline-block;
+        margin-left: 30%;}
+
+#background{background-color: #11db11;
+            padding: 10px;}
+
+#header{width: 500px;
+        margin: auto;}
+
+#monopattini{color: white;}
+
+h3, .vehicle{font-size: 20px;}
+
+#caricavehicle1{height: 25px;
+                width: 400px;
+                background-color: orange;
+                border-radius: 5px;
+                margin-bottom: 25px;}
+
+#caricavehicle2{height: 25px;
+                width: 600px;
+                background-color: green;
+                border-radius: 5px;
+                margin-bottom: 25px;}
+
+#caricavehicle3{height: 25px;
+                width: 110px;
+                background-color: red;
+                border-radius: 5px;
+                margin-bottom: 25px;}
+
+p,h3, .carica{margin-top: 0px;
+              margin-bottom: 0px;
+              margin-left: 0px;
+              margin-right: 0px;}
