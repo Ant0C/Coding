@@ -33,7 +33,7 @@ body{background-image: url(background.jpg);
 #header{width: 500px;
         margin: auto;}
 
-/* colore background bottoni */
+/* colore background button */
 
 .background{background-color: #11db11;
             padding: 10px;}
@@ -46,10 +46,6 @@ body{background-image: url(background.jpg);
 /* colore font sezione centrale sito */
 
 .testomonopattini{color: white;}
-
-/* variazione di tutti i contenitori span all'interno del corpo centrale del sito */
-
-span{display: inline-block;}
 
 /* font size del nome monopattino */
 
